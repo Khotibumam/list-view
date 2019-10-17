@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">list</string>
+    <string name="nama_palace">objeck wisata</string>
+    <string name="des">Lorem</string>
+
+    <string-array name="data_wisata">
+        <item>Sikunir</item>
+        <item>Gunung Prau</item>
+        <item>Kawah Sileri</item>
+        <item>Kawah Sikidang</item>
+        <item>Telaga Warna</item>
+        <item>Ratapan Angin</item>
+        <item>Candi Arjuna</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+
+        <item>Bukit Sukinir atau yang dikenal dengan bukit di atas awan ini menjadi tempat populer selanjutnya.
+ Tempat ini bisa dikatakan menjadi salah satu obyek yang cukup banyak dikunjungi.
+Bahkan setiap harinya tempat ini selalu diramaikan para wisatawan yang ingin melihat kecantikan alam Dieng dari atas bukit.
+ Di sini Anda bisa melihat kecantikan sunrise dan sunset secara langsung.</item>
+        <item>Untuk Anda yang hobi mendaki gunung, kawasan ini memiliki titik pendakian yang patut Anda coba. Meskipun tidak sepopuler pendakian yang ada
+ di gunung Merapi, Sumbing, dan Sindoro. Namun pendakian di sini memiliki keindahan alam yang sayang untuk Anda lewatkan.
+ Untuk jalur pendakiannya sendiri bisa ditempuh dari kawasan Dieng atau dari Kabupaten Kendal, Jawa Tengah.</item>
+        <item>Satu lagi kawah yang cukup menarik untuk dikunjungi, yaitu Kawah Sileri. Kawah di sini memiliki air dengan warna putih keabu-abuan yang bisa
+ disaksikan lebih dekat. Wisatawan bisa berfoto ataupun hanya menikmati keindahan kawah dengan bukit hijau di sekitarnya.</item>
+        <item>Wisatawan dapat menemukan beberapa kawah vulkanis yang masih aktif di Gunung Prau. Salah satu yang paling terkenal adalah Kawah Sikidang.
+            Saat berkunjung ke sini, disarankan untuk selalu mengenakan masker. Karena, masih dapat dirasakan tajamnya aroma belerang dari kawah yang
+            dinilai bisa membahayakan kesehatan. Air kawah juga terbilang cukup panas, bisa mencapai 90 derajat celcius. </item>
+        <item>Telaga Warna menjadi salah satu obyek wisata yang paling populer di kalangan wisatawan.
+Hal yang menarik dari telaga ini adalah warna airnya yang bisa berubah-ubah, kadang berwarna hijau, biru, merah, putih, dan bahkan lainnya.
+</item>
+        <item>Selain Bukit Sukinir, di tempat ini ada yang namanya wisata Batu Ratapan Angin. Tempatnya di antara Telaga Warna dan Dieng Planteau.
+ Di sini Anda bisa menikmati kecantikan dari Telaga Warna dengan alam perbukitan yang mengelilinginya.
+</item>
+        <item>Selain keindahan alam, di kawasan ini Anda juga dapat menapaki sejarah dengan adanya bangunan candi yang bisa dikunjungi. Meskipun Candi Arjuna
+ bukanlah satu-satunya candi yang ada di sini, namun candi ini cukup populer di mata wisatawan asing maupun lokal.</item>
+    </string-array>
+
+    <string-array name="image">
+        <item>@drawable/sikunir</item>
+        <item>@drawable/prau</item>
+        <item>@drawable/sileri</item>
+        <item>@drawable/sikidang</item>
+        <item>@drawable/telagawarnadieng</item>
+        <item>@drawable/ratapan</item>
+        <item>@drawable/komplekcandiarjuna</item>
+    </string-array>
+</resources>
